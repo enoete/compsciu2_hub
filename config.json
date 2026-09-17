@@ -1,0 +1,15 @@
+{
+  "code": "CS Unit 2",
+  "title": "Computer Science",
+  "subtitle": "Unit 2",
+  "institution": "Clarence Fitzroy Bryant College",
+  "tagline": "Stacks, queues and linked lists — the machinery every clever program is quietly built from. Real C, real applications, no hand-waving.",
+  "lecturer": "Enoete Peters",
+  "accent": "#1668D8",
+  "accentAlt": "#D97706",
+  "boardTint": "#0F7A5A",
+  "labels": {
+    "topicsHeading": "Topics",
+    "emptyState": "No topics published yet. They appear here as soon as they are added."
+  }
+}
