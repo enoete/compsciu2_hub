@@ -1,0 +1,212 @@
+{
+  "course": {
+    "code": "CS Unit 2",
+    "title": "Computer Science",
+    "subtitle": "Unit 2",
+    "institution": "Clarence Fitzroy Bryant College",
+    "term": "Semester 1",
+    "announcement": ""
+  },
+  "resources": [
+    {
+      "id": "mindmap",
+      "url": "https://mm.tt/map/3428536924?t=d2WkUVljJq",
+      "title": "Unit 2 mind map",
+      "blurb": "How every data structure in the unit connects. Open this before an exam to see the shape of the whole syllabus rather than a list of parts.",
+      "kind": "Course map",
+      "accent": "#D97706",
+      "host": "mm.tt"
+    },
+    {
+      "id": "onlinegdb",
+      "url": "https://www.onlinegdb.com/",
+      "title": "OnlineGDB",
+      "blurb": "Free browser-based C compiler with a debugger. Every program in this unit runs here with no install — paste it in and press run.",
+      "kind": "Compiler",
+      "accent": "#0F7A5A",
+      "host": "onlinegdb.com"
+    },
+    {
+      "id": "paper2guide",
+      "url": "https://enoete.github.io/cfbcompsciu2pastpapers2/",
+      "title": "Paper 02 Study Guide",
+      "blurb": "Past paper coverage across Sections A, B and C — abstract data types, linked lists, stacks, queues, searching and sorting.",
+      "kind": "Past papers",
+      "accent": "#7A1F3D",
+      "host": "enoete.github.io"
+    },
+    {
+      "id": "paper1quiz",
+      "url": "https://enoete.github.io/cfbcompsciu2pastpapers1/",
+      "title": "Paper 1 Quiz (2019–2021)",
+      "blurb": "Multiple-choice practice drawn from Unit 2 Paper 1 exams, 2019 to 2021.",
+      "kind": "Past papers",
+      "accent": "#3B4CA8",
+      "host": "enoete.github.io"
+    }
+  ],
+  "generatedAt": "2026-09-19T03:36:05.039Z",
+  "sourceBin": "6aabfbafac6210605ad8be26",
+  "topicCount": 3,
+  "failures": 0,
+  "topics": [
+    {
+      "id": "stacks-queues-lists",
+      "url": "https://enoete.github.io/cfbcompsciunit2_1/",
+      "title": "Abstract Data Types — Linked Lists, Stacks & Queues",
+      "blurb": "Stacks, queues and linked lists built from scratch in C, with three full worked applications — an RPN calculator, a circular ticket queue, and a playlist that grows from singly to doubly to circular linked.",
+      "number": 1,
+      "status": "live",
+      "tags": [
+        "Stacks",
+        "Queues",
+        "Circular queues",
+        "Linked lists",
+        "Singly linked",
+        "Doubly linked",
+        "Circular linked",
+        "ADT",
+        "Arrays vs lists"
+      ],
+      "accent": "#1668D8",
+      "icon": "",
+      "meta": {
+        "title": "Abstract Data Types — Linked Lists, Stacks & Queues",
+        "description": "Stacks, queues and linked lists built from scratch in C, with three full worked applications — an RPN calculator, a circular ticket queue, and a playlist that grows from singly to doubly to circular linked.",
+        "image": "",
+        "siteName": "CS Unit 2 · CFBC",
+        "themeColor": "#1668D8",
+        "duration": "150 min",
+        "difficulty": "Foundation",
+        "objectives": "10",
+        "questions": "30",
+        "topics": [
+          "Stacks",
+          "Queues",
+          "Circular queues",
+          "Linked lists",
+          "Singly linked",
+          "Doubly linked",
+          "Circular linked",
+          "ADT",
+          "Arrays vs lists"
+        ],
+        "activities": [
+          "Bracket checker",
+          "String reversal",
+          "RPN calculator",
+          "Circular queue",
+          "BBQ stand at Warner Park",
+          "Linked list traversal",
+          "Doubly linked list",
+          "Playlist builder",
+          "Unit test"
+        ],
+        "sections": 15,
+        "updated": "2026-09-18"
+      },
+      "fetchedAt": "2026-09-19T03:36:04.188Z"
+    },
+    {
+      "id": "hold-and-compare",
+      "url": "https://enoete.github.io/cfbcompsciunit2_1b/",
+      "title": "Temporary Variables — Lesson 1.5",
+      "blurb": "The one habit — hold a value now, use it later — running through every pointer trick in Lesson 1 and every search and sort in Lesson 2. Protect, compare, bridge and flag, all in one place.",
+      "number": 1.5,
+      "status": "live",
+      "tags": [
+        "Temporary variables",
+        "Swapping",
+        "Running maximum",
+        "Trailing pointers",
+        "Boolean flags",
+        "Conditionals"
+      ],
+      "accent": "#7C3AED",
+      "icon": "",
+      "meta": {
+        "title": "Temporary Variables — Lesson 1.5",
+        "description": "The one habit — hold a value now, use it later — running through every pointer trick in Lesson 1 and every search and sort in Lesson 2. Protect, compare, bridge and flag, all in one place.",
+        "image": "",
+        "siteName": "CS Unit 2 · CFBC",
+        "themeColor": "#1668D8",
+        "duration": "70 min",
+        "difficulty": "Foundation",
+        "objectives": "6",
+        "questions": "24",
+        "topics": [
+          "Temporary variables",
+          "Swapping",
+          "Running maximum",
+          "Trailing pointers",
+          "Boolean flags",
+          "Conditionals"
+        ],
+        "activities": [
+          "Cup-swap sandbox",
+          "Spot the pattern",
+          "Lunch tray swap",
+          "Sports Day jump track",
+          "Ferry day-by-day",
+          "Lifeguard"
+        ],
+        "sections": 8,
+        "updated": "2026-09-19"
+      },
+      "fetchedAt": "2026-09-19T03:36:04.256Z"
+    },
+    {
+      "id": "searching-sorting",
+      "url": "https://enoete.github.io/cfbcompsciunit2_2/",
+      "title": "Searching & Sorting — Lesson 2",
+      "blurb": "Linear and binary search, bubble and selection sort — built one line at a time in runnable blocks, with blanks you fill in yourself.",
+      "number": 2,
+      "status": "live",
+      "tags": [
+        "Linear search",
+        "Binary search",
+        "Bubble sort",
+        "Selection sort",
+        "Algorithm complexity",
+        "Best case",
+        "Worst case"
+      ],
+      "accent": "#D97706",
+      "icon": "",
+      "meta": {
+        "title": "Searching & Sorting — Lesson 2",
+        "description": "Linear and binary search, bubble and selection sort — built one line at a time in runnable blocks, with blanks you fill in yourself.",
+        "image": "",
+        "siteName": "CS Unit 2 · CFBC",
+        "themeColor": "#1668D8",
+        "duration": "120 min",
+        "difficulty": "Core",
+        "objectives": "8",
+        "questions": "30",
+        "topics": [
+          "Linear search",
+          "Binary search",
+          "Bubble sort",
+          "Selection sort",
+          "Algorithm complexity",
+          "Best case",
+          "Worst case"
+        ],
+        "activities": [
+          "Linear search",
+          "Binary search",
+          "Search race",
+          "Bubble sort",
+          "Selection sort",
+          "Sort comparison",
+          "Exam practice",
+          "Debug the textbook",
+          "Unit test"
+        ],
+        "sections": 10,
+        "updated": "2026-09-17"
+      },
+      "fetchedAt": "2026-09-19T03:36:04.338Z"
+    }
+  ]
+}
