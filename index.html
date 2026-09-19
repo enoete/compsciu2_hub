@@ -130,8 +130,7 @@ a.card:hover{transform:translateY(-2px); box-shadow:5px 6px 0 var(--accent,var(-
 .resbar{position:sticky; top:0; z-index:60; background:var(--ink); border-bottom:2px solid var(--ink)}
 .resbar-in{display:flex; align-items:center; gap:11px; padding:9px 20px}
 .resbar-label{flex:0 0 auto; font-family:var(--mono); font-weight:700; font-size:.74rem; color:#8FD9BB; white-space:nowrap}
-.resbar-scroll{display:flex; gap:8px; overflow-x:auto; scrollbar-width:thin; -webkit-overflow-scrolling:touch; padding:2px 2px 3px}
-.resbar-scroll::-webkit-scrollbar{height:4px}
+.resbar-scroll{display:flex; flex-wrap:wrap; gap:8px 8px; padding:2px 2px 3px; flex:1 1 auto; min-width:0}
 .rchip{
   flex:0 0 auto; display:flex; align-items:baseline; gap:6px; text-decoration:none;
   background:#1B3138; border:1px solid #2A454D; border-radius:999px; padding:6px 12px;
