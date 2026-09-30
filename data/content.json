@@ -45,10 +45,10 @@
       "host": "enoete.github.io"
     }
   ],
-  "generatedAt": "2026-09-30T12:45:04.214Z",
+  "generatedAt": "2026-09-30T14:22:55.159Z",
   "sourceBin": "6aabfbafac6210605ad8be26",
-  "topicCount": 3,
-  "failures": 0,
+  "topicCount": 4,
+  "failures": 1,
   "topics": [
     {
       "id": "stacks-queues-lists",
@@ -105,7 +105,7 @@
         "sections": 15,
         "updated": "2026-09-18"
       },
-      "fetchedAt": "2026-09-30T12:45:02.660Z"
+      "fetchedAt": "2026-09-30T14:22:53.554Z"
     },
     {
       "id": "hold-and-compare",
@@ -153,7 +153,7 @@
         "sections": 8,
         "updated": "2026-09-19"
       },
-      "fetchedAt": "2026-09-30T12:45:02.788Z"
+      "fetchedAt": "2026-09-30T14:22:53.649Z"
     },
     {
       "id": "searching-sorting",
@@ -206,7 +206,20 @@
         "sections": 10,
         "updated": "2026-09-17"
       },
-      "fetchedAt": "2026-09-30T12:45:02.906Z"
+      "fetchedAt": "2026-09-30T14:22:53.765Z"
+    },
+    {
+      "id": "adt-lab",
+      "url": "https://enoete.github.io/cfbcompsciunit2_3/",
+      "title": "adt-lab",
+      "blurb": "",
+      "number": 3,
+      "status": "live",
+      "tags": [],
+      "accent": "#B0286B",
+      "icon": "",
+      "meta": {},
+      "fetchedAt": "2026-09-30T14:22:53.861Z"
     }
   ]
 }
