@@ -45,10 +45,10 @@
       "host": "enoete.github.io"
     }
   ],
-  "generatedAt": "2026-09-30T14:22:55.159Z",
+  "generatedAt": "2026-09-30T14:24:25.312Z",
   "sourceBin": "6aabfbafac6210605ad8be26",
   "topicCount": 4,
-  "failures": 1,
+  "failures": 0,
   "topics": [
     {
       "id": "stacks-queues-lists",
@@ -105,7 +105,7 @@
         "sections": 15,
         "updated": "2026-09-18"
       },
-      "fetchedAt": "2026-09-30T14:22:53.554Z"
+      "fetchedAt": "2026-09-30T14:24:24.104Z"
     },
     {
       "id": "hold-and-compare",
@@ -153,7 +153,7 @@
         "sections": 8,
         "updated": "2026-09-19"
       },
-      "fetchedAt": "2026-09-30T14:22:53.649Z"
+      "fetchedAt": "2026-09-30T14:24:24.180Z"
     },
     {
       "id": "searching-sorting",
@@ -206,20 +206,58 @@
         "sections": 10,
         "updated": "2026-09-17"
       },
-      "fetchedAt": "2026-09-30T14:22:53.765Z"
+      "fetchedAt": "2026-09-30T14:24:24.241Z"
     },
     {
       "id": "adt-lab",
       "url": "https://enoete.github.io/cfbcompsciunit2_3/",
-      "title": "adt-lab",
-      "blurb": "",
+      "title": "ADT Lab — Choosing the Right Structure",
+      "blurb": "A practice lab, not a re-teach: five real applications — undo, a support queue, a playlist, a contact lookup, a live leaderboard — where you decide which structure fits, then build the piece that matters.",
       "number": 3,
       "status": "live",
-      "tags": [],
+      "tags": [
+        "Stacks",
+        "Queues",
+        "Linked lists",
+        "Linear search",
+        "Binary search",
+        "Insertion sort",
+        "Choosing a structure"
+      ],
       "accent": "#B0286B",
       "icon": "",
-      "meta": {},
-      "fetchedAt": "2026-09-30T14:22:53.861Z"
+      "meta": {
+        "title": "ADT Lab — Choosing the Right Structure",
+        "description": "A practice lab, not a re-teach: five real applications — undo, a support queue, a playlist, a contact lookup, a live leaderboard — where you decide which structure fits, then build the piece that matters.",
+        "image": "",
+        "siteName": "CS Unit 2 · CFBC",
+        "themeColor": "#B0286B",
+        "duration": "100 min",
+        "difficulty": "Core",
+        "objectives": "5",
+        "questions": "16",
+        "topics": [
+          "Stacks",
+          "Queues",
+          "Linked lists",
+          "Linear search",
+          "Binary search",
+          "Insertion sort",
+          "Choosing a structure"
+        ],
+        "activities": [
+          "Undo stack",
+          "Support queue",
+          "Playlist insert and delete",
+          "Contact lookup",
+          "Live leaderboard",
+          "Choose your structure",
+          "Self-check"
+        ],
+        "sections": 8,
+        "updated": "2026-09-30"
+      },
+      "fetchedAt": "2026-09-30T14:24:24.298Z"
     }
   ]
 }
