@@ -45,7 +45,7 @@
       "host": "enoete.github.io"
     }
   ],
-  "generatedAt": "2026-10-08T00:14:22.870Z",
+  "generatedAt": "2026-10-08T15:40:55.816Z",
   "sourceBin": "6aabfbafac6210605ad8be26",
   "topicCount": 4,
   "failures": 0,
@@ -105,7 +105,7 @@
         "sections": 15,
         "updated": "2026-09-18"
       },
-      "fetchedAt": "2026-10-08T00:14:21.538Z"
+      "fetchedAt": "2026-10-08T15:40:53.981Z"
     },
     {
       "id": "hold-and-compare",
@@ -153,7 +153,7 @@
         "sections": 8,
         "updated": "2026-09-19"
       },
-      "fetchedAt": "2026-10-08T00:14:21.674Z"
+      "fetchedAt": "2026-10-08T15:40:54.124Z"
     },
     {
       "id": "searching-sorting",
@@ -206,7 +206,7 @@
         "sections": 10,
         "updated": "2026-09-17"
       },
-      "fetchedAt": "2026-10-08T00:14:21.809Z"
+      "fetchedAt": "2026-10-08T15:40:54.581Z"
     },
     {
       "id": "adt-lab",
@@ -257,7 +257,7 @@
         "sections": 8,
         "updated": "2026-09-30"
       },
-      "fetchedAt": "2026-10-08T00:14:21.951Z"
+      "fetchedAt": "2026-10-08T15:40:54.713Z"
     }
   ]
 }
