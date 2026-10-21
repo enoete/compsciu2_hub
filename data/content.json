@@ -45,7 +45,7 @@
       "host": "enoete.github.io"
     }
   ],
-  "generatedAt": "2026-10-21T13:51:40.175Z",
+  "generatedAt": "2026-10-21T23:24:22.359Z",
   "sourceBin": "6aabfbafac6210605ad8be26",
   "topicCount": 6,
   "failures": 0,
@@ -105,7 +105,7 @@
         "sections": 15,
         "updated": "2026-09-18"
       },
-      "fetchedAt": "2026-10-21T13:51:38.117Z"
+      "fetchedAt": "2026-10-21T23:24:20.684Z"
     },
     {
       "id": "hold-and-compare",
@@ -153,7 +153,7 @@
         "sections": 8,
         "updated": "2026-09-19"
       },
-      "fetchedAt": "2026-10-21T13:51:38.298Z"
+      "fetchedAt": "2026-10-21T23:24:20.803Z"
     },
     {
       "id": "searching-sorting",
@@ -206,7 +206,7 @@
         "sections": 10,
         "updated": "2026-09-17"
       },
-      "fetchedAt": "2026-10-21T13:51:38.412Z"
+      "fetchedAt": "2026-10-21T23:24:20.923Z"
     },
     {
       "id": "adt-lab",
@@ -257,119 +257,161 @@
         "sections": 8,
         "updated": "2026-09-30"
       },
-      "fetchedAt": "2026-10-21T13:51:38.516Z"
+      "fetchedAt": "2026-10-21T23:24:21.029Z"
     },
     {
       "id": "sdlc-lifecycle",
       "url": "https://enoete.github.io/cfbcompsciunit2_4/",
       "title": "The Software Development Life Cycle",
-      "blurb": "Why every system gets built in a deliberate order: the generic life cycle, seven real models (Waterfall, Spiral, Prototyping and more), feasibility studies, requirements elicitation, and a self-checking case-study capstone.",
+      "blurb": "Follow one real-feeling project from idea to launch: the generic life cycle, all seven life cycle models with hands-on simulators, feasibility (with a working cost-benefit calculator), every elicitation technique, requirements validation, and five self-checking case studies.",
       "number": 4,
       "status": "live",
       "tags": [
         "SDLC",
         "Generic life cycle",
         "Waterfall",
-        "Prototyping",
-        "Spiral",
+        "Rapid Prototyping",
         "Evolutionary development",
+        "Spiral",
+        "Formal transformation",
+        "Fountain",
+        "Reuse-oriented development",
         "Feasibility study",
         "Requirements elicitation",
         "Functional vs non-functional",
+        "Verification vs validation",
         "Case studies"
       ],
       "accent": "#1E5F74",
       "icon": "",
       "meta": {
         "title": "The Software Development Life Cycle",
-        "description": "Why every system gets built in a deliberate order: the generic life cycle, seven real models (Waterfall, Spiral, Prototyping and more), feasibility studies, requirements elicitation, and a self-checking case-study capstone.",
+        "description": "Follow one real-feeling project from idea to launch: the generic life cycle, all seven life cycle models with hands-on simulators, feasibility (with a working cost-benefit calculator), every elicitation technique, requirements validation, and five self-checking case studies.",
         "image": "",
         "siteName": "CS Unit 2 · CFBC",
         "themeColor": "#1E5F74",
-        "duration": "130 min",
+        "duration": "240 min",
         "difficulty": "Core",
-        "objectives": "9",
-        "questions": "24",
+        "objectives": "12",
+        "questions": "36",
         "topics": [
           "SDLC",
           "Generic life cycle",
           "Waterfall",
-          "Prototyping",
-          "Spiral",
+          "Rapid Prototyping",
           "Evolutionary development",
+          "Spiral",
+          "Formal transformation",
+          "Fountain",
+          "Reuse-oriented development",
           "Feasibility study",
           "Requirements elicitation",
           "Functional vs non-functional",
+          "Verification vs validation",
           "Case studies"
         ],
         "activities": [
+          "Disaster replay",
           "Phase order drag",
-          "Model explorer",
-          "Scenario-to-model matching",
-          "Feasibility scenario check",
-          "Requirements sorting",
-          "Elicitation matching",
-          "Case study capstone",
+          "Cost-of-change slider",
+          "Waterfall simulator",
+          "Costume prototyping lab",
+          "Version evolution game",
+          "Spiral walker",
+          "Tests vs proof bug hunt",
+          "Component shop",
+          "Model matcher streak",
+          "Feasibility calculator",
+          "Interview simulator",
+          "Questionnaire doctor",
+          "Document detective",
+          "Data dictionary builder",
+          "Requirement doctor",
+          "Five case studies",
+          "Proposal builder",
           "Unit test"
         ],
-        "sections": 7,
+        "sections": 12,
         "updated": "2026-10-21"
       },
-      "fetchedAt": "2026-10-21T13:51:38.606Z"
+      "fetchedAt": "2026-10-21T23:24:21.190Z"
     },
     {
       "id": "system-diagrams",
       "url": "https://enoete.github.io/cfbcompsciunit2_5/",
       "title": "System Design Diagrams",
-      "blurb": "Draw the system before you build it. A real drag-and-build canvas for Data Flow Diagrams and Entity-Relationship Diagrams that checks your work structurally — plus class diagrams, use case diagrams, structure charts, HIPO charts, CASE tools and standard interfaces.",
+      "blurb": "Draw the system before anyone builds it. A live, self-checking canvas for Data Flow Diagrams, Entity-Relationship Diagrams and use case diagrams, plus class diagrams, structure charts, HIPO charts, standard interfaces and CASE tools.",
       "number": 5,
       "status": "live",
       "tags": [
-        "Data Flow Diagrams",
-        "Entity-Relationship Diagrams",
-        "Cardinality",
         "Class diagrams",
         "Use case diagrams",
+        "Data Flow Diagrams",
+        "Context diagram",
+        "Level 1 DFD",
+        "Functional decomposition",
+        "Entity-Relationship Diagrams",
+        "Cardinality",
+        "Primary and foreign keys",
+        "Referential integrity",
         "Structure charts",
         "HIPO charts",
-        "CASE tools",
-        "Standard interfaces"
+        "Standard interfaces",
+        "CASE tools"
       ],
       "accent": "#6D28D9",
       "icon": "",
       "meta": {
         "title": "System Design Diagrams",
-        "description": "Draw the system before you build it. A real drag-and-build canvas for Data Flow Diagrams and Entity-Relationship Diagrams that checks your work structurally — plus class diagrams, use case diagrams, structure charts, HIPO charts, CASE tools and standard interfaces.",
+        "description": "Draw the system before anyone builds it. A live, self-checking canvas for Data Flow Diagrams, Entity-Relationship Diagrams and use case diagrams, plus class diagrams, structure charts, HIPO charts, standard interfaces and CASE tools.",
         "image": "",
         "siteName": "CS Unit 2 · CFBC",
         "themeColor": "#6D28D9",
-        "duration": "140 min",
+        "duration": "220 min",
         "difficulty": "Core",
-        "objectives": "8",
-        "questions": "26",
+        "objectives": "10",
+        "questions": "30",
         "topics": [
-          "Data Flow Diagrams",
-          "Entity-Relationship Diagrams",
-          "Cardinality",
           "Class diagrams",
           "Use case diagrams",
+          "Data Flow Diagrams",
+          "Context diagram",
+          "Level 1 DFD",
+          "Functional decomposition",
+          "Entity-Relationship Diagrams",
+          "Cardinality",
+          "Primary and foreign keys",
+          "Referential integrity",
           "Structure charts",
           "HIPO charts",
-          "CASE tools",
-          "Standard interfaces"
+          "Standard interfaces",
+          "CASE tools"
         ],
         "activities": [
-          "Diagram-family matching",
-          "DFD canvas builder",
-          "Illegal DFD spotting",
-          "ERD canvas builder",
-          "Diagram flashcards",
+          "Which diagram",
+          "Class builder",
+          "Relationship match",
+          "Use case canvas",
+          "Scenario highlighter",
+          "DFD rule-breaker hunt",
+          "Context DFD canvas",
+          "Level 1 DFD canvas",
+          "TroupeTrack DFD canvas",
+          "Cardinality two-question tool",
+          "Cardinality sort",
+          "Referential integrity lab",
+          "ERD canvas challenges",
+          "Structure chart builder",
+          "HIPO IPO sort",
+          "Interface plug-in",
+          "CASE tool sort",
+          "Free sandbox",
           "Unit test"
         ],
-        "sections": 6,
+        "sections": 10,
         "updated": "2026-10-21"
       },
-      "fetchedAt": "2026-10-21T13:51:38.877Z"
+      "fetchedAt": "2026-10-21T23:24:21.287Z"
     }
   ]
 }
