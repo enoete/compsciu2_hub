@@ -45,9 +45,9 @@
       "host": "enoete.github.io"
     }
   ],
-  "generatedAt": "2026-10-21T13:16:40.478Z",
+  "generatedAt": "2026-10-21T13:17:34.141Z",
   "sourceBin": "6aabfbafac6210605ad8be26",
-  "topicCount": 4,
+  "topicCount": 6,
   "failures": 0,
   "topics": [
     {
@@ -105,7 +105,7 @@
         "sections": 15,
         "updated": "2026-09-18"
       },
-      "fetchedAt": "2026-10-21T13:16:38.864Z"
+      "fetchedAt": "2026-10-21T13:17:33.044Z"
     },
     {
       "id": "hold-and-compare",
@@ -153,7 +153,7 @@
         "sections": 8,
         "updated": "2026-09-19"
       },
-      "fetchedAt": "2026-10-21T13:16:39.014Z"
+      "fetchedAt": "2026-10-21T13:17:33.233Z"
     },
     {
       "id": "searching-sorting",
@@ -206,7 +206,7 @@
         "sections": 10,
         "updated": "2026-09-17"
       },
-      "fetchedAt": "2026-10-21T13:16:39.153Z"
+      "fetchedAt": "2026-10-21T13:17:33.288Z"
     },
     {
       "id": "adt-lab",
@@ -257,7 +257,119 @@
         "sections": 8,
         "updated": "2026-09-30"
       },
-      "fetchedAt": "2026-10-21T13:16:39.358Z"
+      "fetchedAt": "2026-10-21T13:17:33.327Z"
+    },
+    {
+      "id": "sdlc-lifecycle",
+      "url": "https://enoete.github.io/cfbcompsciunit2_4/",
+      "title": "The Software Development Life Cycle",
+      "blurb": "Why every system gets built in a deliberate order: the generic life cycle, seven real models (Waterfall, Spiral, Prototyping and more), feasibility studies, requirements elicitation, and a self-checking case-study capstone.",
+      "number": 4,
+      "status": "live",
+      "tags": [
+        "SDLC",
+        "Generic life cycle",
+        "Waterfall",
+        "Prototyping",
+        "Spiral",
+        "Evolutionary development",
+        "Feasibility study",
+        "Requirements elicitation",
+        "Functional vs non-functional",
+        "Case studies"
+      ],
+      "accent": "#1E5F74",
+      "icon": "",
+      "meta": {
+        "title": "The Software Development Life Cycle",
+        "description": "Why every system gets built in a deliberate order: the generic life cycle, seven real models (Waterfall, Spiral, Prototyping and more), feasibility studies, requirements elicitation, and a self-checking case-study capstone.",
+        "image": "",
+        "siteName": "CS Unit 2 · CFBC",
+        "themeColor": "#1E5F74",
+        "duration": "130 min",
+        "difficulty": "Core",
+        "objectives": "9",
+        "questions": "24",
+        "topics": [
+          "SDLC",
+          "Generic life cycle",
+          "Waterfall",
+          "Prototyping",
+          "Spiral",
+          "Evolutionary development",
+          "Feasibility study",
+          "Requirements elicitation",
+          "Functional vs non-functional",
+          "Case studies"
+        ],
+        "activities": [
+          "Phase order drag",
+          "Model explorer",
+          "Scenario-to-model matching",
+          "Feasibility scenario check",
+          "Requirements sorting",
+          "Elicitation matching",
+          "Case study capstone",
+          "Unit test"
+        ],
+        "sections": 7,
+        "updated": "2026-10-21"
+      },
+      "fetchedAt": "2026-10-21T13:17:33.384Z"
+    },
+    {
+      "id": "system-diagrams",
+      "url": "https://enoete.github.io/cfbcompsciunit2_5/",
+      "title": "System Design Diagrams",
+      "blurb": "Draw the system before you build it. A real drag-and-build canvas for Data Flow Diagrams and Entity-Relationship Diagrams that checks your work structurally — plus class diagrams, use case diagrams, structure charts, HIPO charts, CASE tools and standard interfaces.",
+      "number": 5,
+      "status": "live",
+      "tags": [
+        "Data Flow Diagrams",
+        "Entity-Relationship Diagrams",
+        "Cardinality",
+        "Class diagrams",
+        "Use case diagrams",
+        "Structure charts",
+        "HIPO charts",
+        "CASE tools",
+        "Standard interfaces"
+      ],
+      "accent": "#6D28D9",
+      "icon": "",
+      "meta": {
+        "title": "System Design Diagrams",
+        "description": "Draw the system before you build it. A real drag-and-build canvas for Data Flow Diagrams and Entity-Relationship Diagrams that checks your work structurally — plus class diagrams, use case diagrams, structure charts, HIPO charts, CASE tools and standard interfaces.",
+        "image": "",
+        "siteName": "CS Unit 2 · CFBC",
+        "themeColor": "#6D28D9",
+        "duration": "140 min",
+        "difficulty": "Core",
+        "objectives": "8",
+        "questions": "26",
+        "topics": [
+          "Data Flow Diagrams",
+          "Entity-Relationship Diagrams",
+          "Cardinality",
+          "Class diagrams",
+          "Use case diagrams",
+          "Structure charts",
+          "HIPO charts",
+          "CASE tools",
+          "Standard interfaces"
+        ],
+        "activities": [
+          "Diagram-family matching",
+          "DFD canvas builder",
+          "Illegal DFD spotting",
+          "ERD canvas builder",
+          "Diagram flashcards",
+          "Unit test"
+        ],
+        "sections": 6,
+        "updated": "2026-10-21"
+      },
+      "fetchedAt": "2026-10-21T13:17:33.416Z"
     }
   ]
 }
