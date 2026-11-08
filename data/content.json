@@ -45,7 +45,7 @@
       "host": "enoete.github.io"
     }
   ],
-  "generatedAt": "2026-11-07T23:39:15.824Z",
+  "generatedAt": "2026-11-08T15:18:10.655Z",
   "sourceBin": "6aabfbafac6210605ad8be26",
   "topicCount": 6,
   "failures": 0,
@@ -105,7 +105,7 @@
         "sections": 15,
         "updated": "2026-09-18"
       },
-      "fetchedAt": "2026-11-07T23:39:14.684Z"
+      "fetchedAt": "2026-11-08T15:18:09.649Z"
     },
     {
       "id": "hold-and-compare",
@@ -153,7 +153,7 @@
         "sections": 8,
         "updated": "2026-09-19"
       },
-      "fetchedAt": "2026-11-07T23:39:14.781Z"
+      "fetchedAt": "2026-11-08T15:18:09.708Z"
     },
     {
       "id": "searching-sorting",
@@ -206,7 +206,7 @@
         "sections": 10,
         "updated": "2026-09-17"
       },
-      "fetchedAt": "2026-11-07T23:39:14.844Z"
+      "fetchedAt": "2026-11-08T15:18:09.781Z"
     },
     {
       "id": "adt-lab",
@@ -257,7 +257,7 @@
         "sections": 8,
         "updated": "2026-09-30"
       },
-      "fetchedAt": "2026-11-07T23:39:14.911Z"
+      "fetchedAt": "2026-11-08T15:18:09.842Z"
     },
     {
       "id": "sdlc-lifecycle",
@@ -334,7 +334,7 @@
         "sections": 12,
         "updated": "2026-10-21"
       },
-      "fetchedAt": "2026-11-07T23:39:15.012Z"
+      "fetchedAt": "2026-11-08T15:18:09.970Z"
     },
     {
       "id": "system-diagrams",
@@ -411,7 +411,7 @@
         "sections": 10,
         "updated": "2026-10-21"
       },
-      "fetchedAt": "2026-11-07T23:39:15.088Z"
+      "fetchedAt": "2026-11-08T15:18:10.028Z"
     }
   ]
 }
